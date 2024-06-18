@@ -1,2 +1,2 @@
 # interferometer-reflectivity-sequences
-Sequences of LFF detection intervals and general intensity dropout intervals for 21x21 interferometer mirror reflectivity space derived from experimental intensity time series, indented for statistical and ordinal analysis.
+Sequences of LFF detection intervals and general intensity dropout intervals for 21x21 interferometer mirror reflectivity space derived from experimental intensity time series. This data is indented for statistical and ordinal analysis, but can be used for numerous other data analysis/comparison applications where long inter-spike-interval sequences are needed.
